@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java, Python and Angular tech stacks<br>👯 I’m looking to collaborate on Full stack development<br>💬 Ask me about Databases, Deployment, Backends and more..<br>⚡ Fun fact I like to explore new technologies and apporoaches..
+🔭 I’m currently working on Java, Python and Angular tech stacks<br>👯 I’m looking to collaborate on Full stack development<br>💬 Ask me about Databases, Deployment, Backends and more..<br>⚡ Fun fact I like to explore new technologies and approaches..
 
 
 # 💻 Tech Stack:
